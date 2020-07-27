@@ -1,0 +1,13 @@
+#!/data/data/com.termux/files/usr/bin/sh
+c() {
+	if [ -e ~/.zshrc ];then
+	clear
+	proot -0 zsh
+	neofetch
+	else
+	clear
+	proot -0 bash
+	neofetch
+	fi
+	}
+	c
