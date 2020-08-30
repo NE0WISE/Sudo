@@ -1,5 +1,5 @@
 # Sudo
-Termux Sudo Yetkisi Alma 
+Termux Sudo  
 
 
 # Kurulum
